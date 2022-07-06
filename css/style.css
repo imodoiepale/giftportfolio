@@ -1912,7 +1912,7 @@ body.modal {
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
-    background-image: url("..//img/slider/1.jpg");
+    background-image: url("..//img/about/11.jpg");
 }
 
 .arlo_tm_hero .ripple:before {
@@ -1922,7 +1922,7 @@ body.modal {
     bottom: 0px;
     left: 0px;
     right: 0px;
-    background-color: rgba(0, 0, 0, .6);
+    /* background-color: rgba(0, 0, 0, .6); */
     z-index: 1;
 }
 
